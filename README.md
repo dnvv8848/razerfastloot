@@ -1,1 +1,1 @@
-# razerfastloot
+# import razer synapse
